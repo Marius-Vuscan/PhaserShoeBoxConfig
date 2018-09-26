@@ -1,5 +1,4 @@
-# PhaserShoeBoxConfig
-# JSON mode Config
+# PhaserShoeBoxConfig - JSON mode Config
 .sbx configuration file for exporting texture atlas to be loaded into Phaser.
 
 This configuration file allows Shoebox to export json file that can be loaded into Phaser as:
